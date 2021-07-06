@@ -137,7 +137,8 @@ nav ul li a:hover{
 }
 .sldr_img img{
     max-width: 100%;
-    border-radius: 40px 130px 40px 130px;
+    border-radius: 40px 230px 40px 230px;
+    box-shadow: 5px 5px 10px black;
 }
 
 /*about */
